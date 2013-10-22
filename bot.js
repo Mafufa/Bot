@@ -34,7 +34,8 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'krw',
                 'kurva',
                 'krv',
-                
+                'blet',
+                'blt',
 
                
         ],
