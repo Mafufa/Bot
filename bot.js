@@ -27,6 +27,7 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'fąn',
                 'f*n',
                 'f4n',
+                'dx',
                 'duxas',
                 'naxui',
                 'naxuj',
