@@ -38,6 +38,7 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'blet',
                 'blt',
                 'bleet',
+                'f@n'
                 
 
                
