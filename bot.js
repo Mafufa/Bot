@@ -45,6 +45,9 @@ var autoModeratorModel = require('app/base/Class').extend({
                 'fąn',
                 'fąąn',
                 'fąąąn',
+                'gerbėjas',
+                'gerbejas',
+                
                 
                 
 
